@@ -1,2 +1,3 @@
 # hello-world
-Practice using Git!
+cout << "Hello World;"
+This is proof that i no longer remember C++.
